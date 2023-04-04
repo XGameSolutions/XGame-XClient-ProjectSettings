@@ -8,4 +8,16 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Plugins/start.unity
     guid: e45144b13e7e74a149140ef9b4dd3287
+  - enabled: 1
+    path: Assets/ResScene/Scenes/battle.unity
+    guid: 374e113c7e8e049ca9080a959128d257
+  - enabled: 1
+    path: Assets/ResScene/Scenes/city.unity
+    guid: ec741d87ee18e4a2ab35ef67947851df
+  - enabled: 1
+    path: Assets/ResScene/Scenes/empty.unity
+    guid: 0cc8ae6b7a0874cdb9a1d013955d58f1
+  - enabled: 1
+    path: Assets/ResScene/Scenes/login.unity
+    guid: cd8ada9ccbed14c97933235a200c207d
   m_configObjects: {}
